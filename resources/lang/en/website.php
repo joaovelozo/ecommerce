@@ -43,25 +43,25 @@ return [
 		
 	'Orders'=>'Orders',
 		
-	'All Categories'=>'All Categories',
+	'All Categories'=>' Categorias',
 		
-	'Search entire store here'=>'Search entire store here',
+	'Search entire store here'=>'Digite o que precisa',
 		
-	'Profile'=>'Profile',
+	'Profile'=>'Perfil',
 		
 	'Logout'=>'Logout',
 		
-	'Login/Register'=>'Login/Register',
+	'Login/Register'=>'Login/Registrar',
 		
-	'item(s)'=>'item(s)',
+	'item(s)'=>'iten(s)',
 		
-	'Quantity'=>'Quantity',
+	'Quantity'=>'Quantidade',
 		
-	'Total Items'=>'Total Items',
+	'Total Items'=>'Total de Itens',
 		
-	'Total Price'=>'Total Price',
+	'Total Price'=>'Preço Total',
 		
-	'View Cart'=>'View Cart',
+	'View Cart'=>'Meu Carrinho',
 		
 	'Checkout'=>'Checkout',
 		
@@ -73,25 +73,25 @@ return [
 		
 	'Helpful Links'=>'Helpful Links',
 		
-	'Terms'=>'Terms',
+	'Terms'=>'Temos',
 		
-	'Privacy'=>'Privacy',
+	'Privacy'=>'Privacidade',
 		
-	'Discount'=>'Discount',
+	'Discount'=>'Descontos',
 		
-	'About Us'=>'About Us',
+	'About Us'=>'Sobre Nós',
 		
 	'Contact Us'=>'Ajuda',
 		
-	'Terms & Condtions'=>'Terms & Condtions',
+	'Terms & Condtions'=>'Temos e Condições',
 		
 	'Wishlist'=>'Wishlist',
 		
 	'Shopping Cart'=>'Shopping Cart',
 		
-	'Privacy Policy'=>'Privacy Policy',
+	'Privacy Policy'=>'Politica de Privacidade',
 		
-	'Phone'=>'Phone',
+	'Phone'=>'Telefone',
 		
 	'Email'=>'Email',
 		
@@ -101,7 +101,7 @@ return [
 		
 	'View All News'=>'View All News',
 		
-	'Readmore'=>'Readmore',
+	'Readmore'=>'Saiba Mais',
 		
 	'Weekly'=>'Weekly',
 		
@@ -109,11 +109,11 @@ return [
 		
 	'Shop now'=>'Shop now',
 		
-	'Sale'=>'Sale',
+	'Sale'=>'Venda',
 		
 	'Top Selling of the Week'=>'Top Selling of the Week',
 		
-	'View Detail'=>'View Detail',
+	'View Detail'=>'Detalhes',
 		
 	'Newest Products'=>'Newest Products',
 		
